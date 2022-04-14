@@ -1,0 +1,20 @@
+.create-nft {
+  display: grid;
+  place-items: center;
+}
+form {
+  padding: 1rem 0.5rem;
+  display: flex;
+  gap: 0.3rem;
+  flex-direction: column;
+}
+form input,
+form button {
+  border: none;
+  border-radius: 5px;
+  padding: 0.4rem 0.8rem;
+}
+
+form input {
+  border: 1px rgba(0, 0, 0, 0.363) solid;
+}

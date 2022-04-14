@@ -1,0 +1,22 @@
+.main-page {
+  color: rgb(221, 24, 24);
+  font-family: sans-serif;
+}
+h3 {
+  margin: 0.66rem 0.77rem 0.2rem;
+}
+.nft-holder {
+  flex-wrap: wrap;
+  overflow-x: auto;
+  gap: 0.5rem;
+  max-height: 50vh;
+  display: flex;
+  padding: 0.77rem;
+  background-color: rgba(196, 196, 196, 0.295);
+}
+#section-outlet {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+}
